@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+    <string name="data_unavailable">Sorry! Unable to get data from Internet</string>
+    <string name="covid_data_unavailable">Covid Data is currently unavailable!</string>
+</resources>
